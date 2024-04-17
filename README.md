@@ -20,14 +20,25 @@ The Pine Administration System streamlines the process of selling products to cu
 - **Intuitive Design**: The Pine Administration System boasts a clean and intuitive design for seamless navigation and user experience.
 
 ## Quick Preview
+
 <p align="center">
+  <h3>Login Scene</h3>
   <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/5d3eab92-57db-4611-8a25-83522c4ef244">
-  <img src="https://example.com/pine_system/screenshot2.png" width="200" alt="Screenshot 2">
-  <img src="https://example.com/pine_system/screenshot3.png" width="200" alt="Screenshot 3">
 </p>
 
 <p align="center">
-  <img src="https://example.com/pine_system/screenshot4.png" width="200" alt="Screenshot 4">
-  <img src="https://example.com/pine_system/screenshot5.png" width="200" alt="Screenshot 5">
-  <img src="https://example.com/pine_system/screenshot6.png" width="200" alt="Screenshot 6">
+  <h3>Admin Scene for Customer Managment</h3>
+  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/cb1a7b4c-88a1-45c6-8e58-7d20794ffe4a">
+  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/2da82163-39d8-4704-8da2-cdecde80122a" width="500" >
+  <img src= "https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/945efffa-4ba6-415e-866f-a68620f0ec32" width="500" >
+ 
 </p>
+
+<p align="center">
+  <h3>Admin Scene for Emoloyees Managment</h3>
+  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/fc8b785e-1c1b-4b25-9c0c-242420d8e877"">
+  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/aef157c3-a3dc-40f1-bcbc-6b9bc3fab80b" width="500" alt="Screenshot 5">
+  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/785057c8-7dbe-4087-b387-d63e7222a34a)" width="500" alt="Screenshot 6">
+</p>
+
+
