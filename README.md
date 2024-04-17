@@ -29,9 +29,9 @@ The Pine Administration System streamlines the process of selling products to cu
 <p align="center">
   <h3>Admin Scene for Customer Managment</h3>
   <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/cb1a7b4c-88a1-45c6-8e58-7d20794ffe4a">
-  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/2da82163-39d8-4704-8da2-cdecde80122a" width="500">
-  <img src= "https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/945efffa-4ba6-415e-866f-a68620f0ec32" width="500" >
-  <img src= "https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/4379e773-51d1-4066-8fe9-35db1e89a906" width="500" >
+  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/2da82163-39d8-4704-8da2-cdecde80122a" width="300">
+  <img src= "https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/945efffa-4ba6-415e-866f-a68620f0ec32" width="300" >
+  <img src= "https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/4379e773-51d1-4066-8fe9-35db1e89a906" width="300" >
   <img src= "https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/a2eafe9c-c190-4c1e-b4d6-593c065756d5" width="500" >
  
 </p>
