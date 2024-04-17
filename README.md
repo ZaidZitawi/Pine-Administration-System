@@ -21,7 +21,7 @@ The Pine Administration System streamlines the process of selling products to cu
 
 ## Quick Preview
 <p align="center">
-  <img src="https://example.com/pine_system/screenshot1.png" width="200" alt="Screenshot 1">
+  <img src="https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/5d3eab92-57db-4611-8a25-83522c4ef244">
   <img src="https://example.com/pine_system/screenshot2.png" width="200" alt="Screenshot 2">
   <img src="https://example.com/pine_system/screenshot3.png" width="200" alt="Screenshot 3">
 </p>
