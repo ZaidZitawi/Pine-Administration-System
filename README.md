@@ -11,7 +11,7 @@ The Pine Administration System streamlines the process of selling products to cu
 
 ## Features
 
-- **User Authentication**: Securely sign up and log in to access all features of the Pine Administration System.
+- **User Login**:log in to access all features of the Pine Administration System, promoter accounts are made by the admin.
 - **Dashboard**: The user-friendly dashboard provides quick access to essential functionalities.
 - **Customer Management**: Easily add, search, and track customer data, including purchases and assigned gifts.
 - **Product Management**: Manage product inventory and pricing efficiently.
