@@ -6,7 +6,7 @@ Welcome to Pine Administration System, your comprehensive solution for managing 
 
 The Pine Administration System streamlines the process of selling products to customers and tracking sales. With features tailored to your business needs, it offers efficient management of customer information, sales transactions, and gift assignments.
 
-##DataBase Schema:
+## DataBase Schema:
 ![image](https://github.com/ZaidZitawi/Pine-Administration-System/assets/111902956/88d75338-66c9-4520-aaaf-12bafabf6b55)
 
 ## Features
